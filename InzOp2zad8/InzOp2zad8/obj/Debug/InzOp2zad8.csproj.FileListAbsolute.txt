@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\InzOp2zad8\InzOp2zad8\bin\Debug\InzOp2zad8.exe.config
+C:\Users\student\source\repos\InzOp2zad8\InzOp2zad8\bin\Debug\InzOp2zad8.exe
+C:\Users\student\source\repos\InzOp2zad8\InzOp2zad8\bin\Debug\InzOp2zad8.pdb
+C:\Users\student\source\repos\InzOp2zad8\InzOp2zad8\obj\Debug\InzOp2zad8.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\InzOp2zad8\InzOp2zad8\obj\Debug\InzOp2zad8.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\InzOp2zad8\InzOp2zad8\obj\Debug\InzOp2zad8.exe
+C:\Users\student\source\repos\InzOp2zad8\InzOp2zad8\obj\Debug\InzOp2zad8.pdb
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\InzOp2zad8\InzOp2zad8\bin\Debug\InzOp2zad8.exe.config
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\InzOp2zad8\InzOp2zad8\bin\Debug\InzOp2zad8.exe
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\InzOp2zad8\InzOp2zad8\bin\Debug\InzOp2zad8.pdb
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\InzOp2zad8\InzOp2zad8\obj\Debug\InzOp2zad8.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\InzOp2zad8\InzOp2zad8\obj\Debug\InzOp2zad8.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\InzOp2zad8\InzOp2zad8\obj\Debug\InzOp2zad8.exe
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\InzOp2zad8\InzOp2zad8\obj\Debug\InzOp2zad8.pdb

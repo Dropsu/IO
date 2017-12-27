@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\InzOp2zad7\InzOp2zad7\bin\Debug\InzOp2zad7.exe.config
+C:\Users\student\source\repos\InzOp2zad7\InzOp2zad7\bin\Debug\InzOp2zad7.exe
+C:\Users\student\source\repos\InzOp2zad7\InzOp2zad7\bin\Debug\InzOp2zad7.pdb
+C:\Users\student\source\repos\InzOp2zad7\InzOp2zad7\obj\Debug\InzOp2zad7.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\InzOp2zad7\InzOp2zad7\obj\Debug\InzOp2zad7.exe
+C:\Users\student\source\repos\InzOp2zad7\InzOp2zad7\obj\Debug\InzOp2zad7.pdb
